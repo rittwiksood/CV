@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Powering Robust Fashion Retrieval With Information Rich Feature Embeddings"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/1
+excerpt: '<b>Best Paper Award</b> at IEEE Computer Vision and Pattern Recognition Workshop (Fashion and Subjective Search)'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Chopra_Powering_Robust_Fashion_Retrieval_With_Information_Rich_Feature_Embeddings_CVPRW_2019_paper.pdf'
+citation: 'Ayush Chopra*, Abhishek Sinha*, <b>Hiresh Gupta*</b>, Mausoom Sarkar*, Balaji Krishnamurthy'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
