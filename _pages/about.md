@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi this is my [website](https://hireshgupta1997.github.io).
-More about me
+<!-- Hi this is my [website](https://hireshgupta1997.github.io). -->
+<!-- More about me -->
 ======
 To be updated
 
 For more info
 ------
-Contact: Gaurav
+Contact: +91-9828628907
