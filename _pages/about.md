@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- Hi this is my [website](https://hireshgupta1997.github.io). -->
 <!-- More about me -->
-======
-To be updated
+<!-- ====== -->
+<!-- To be updated
 
 For more info
 ------
-Contact: +91-9828628907
+Contact: +91-9828628907 -->
