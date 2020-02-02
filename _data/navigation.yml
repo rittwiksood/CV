@@ -9,9 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Patents"
+    url: /patents/
 
   - title: "CV"
     url: https://hireshgupta1997.github.io/files/Hiresh_CV.pdf
