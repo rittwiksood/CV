@@ -12,8 +12,11 @@ main:
   - title: "Patents"
     url: /patents/
 
+  - title: "Positions of Responsibility"
+    url: /responsibility/
+
   - title: "CV"
     url: https://hireshgupta1997.github.io/files/Hiresh_CV.pdf
-    
+
   - title: "Achievements"
     url: /achievements/
