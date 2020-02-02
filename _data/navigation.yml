@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Work Experience"
+    url: /workex/
+
   - title: "Publications"
     url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/
 
 #  - title: "Teaching"
 #    url: /teaching/
