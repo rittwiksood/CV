@@ -1,12 +1,12 @@
 ---
-title: "Major Academic Projects"
+title: ""
 excerpt: ""
 author_profile: true
 permalink: /projects/
 redirect_from:
   - /project/
 ---
-# Adobe Systems, India
+# Automated Image Captioning using Multimodal Recurrent Nets
 
 Guide: [Prof. Poonam Goyal](https://www.bits-pilani.ac.in/Pilani/poonam/profile)
 
