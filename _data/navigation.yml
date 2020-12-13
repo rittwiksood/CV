@@ -6,14 +6,14 @@ main:
   - title: "Patents"
     url: /patents/
 
-  - title: "Work Experience"
-    url: /workex/
-
-  - title: "CV"
-    url: https://hireshgupta1997.github.io/files/Hiresh_CV.pdf
+#  - title: "Work Experience"
+#    url: /workex/
 
   - title: "Projects"
     url: /projects/
+
+  - title: "CV"
+    url: https://hireshgupta1997.github.io/files/Hiresh_CV.pdf
 
   - title: "Achievements"
     url: /achievements/

@@ -2,7 +2,7 @@
 title: "Achievements and Awards"
 excerpt: ""
 author_profile: true
-permalink: /projects/
+permalink: /achievements/
 redirect_from:
   - /achievements/
 ---
