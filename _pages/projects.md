@@ -6,6 +6,14 @@ permalink: /projects/
 redirect_from:
   - /project/
 ---
+# Deep Product Search In the Wild
+
+Guide: [Mr. Balaji Krishnamurthy](https://www.linkedin.com/in/balaji-krishnamurthy-4241695)
+
+* Worked on a deep learning based Visual Product Search which segments different products in a
+wild image and performs search in a large catalogue.
+* Proposed a novel grid based training of Siamese networks, allowing it to observe multiple positive and negative image instances simultaneously. The [research](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Chopra_Powering_Robust_Fashion_Retrieval_With_Information_Rich_Feature_Embeddings_CVPRW_2019_paper.pdf) was awarded the [Best Paper Award](https://twitter.com/naverlabseurope/status/1140376555341795328) at CVPR 2019 Workshop on Fashion and Subjective Search.
+
 # Automated Image Captioning using Multimodal Recurrent Nets
 
 Guide: [Prof. Poonam Goyal](https://www.bits-pilani.ac.in/Pilani/poonam/profile)
@@ -26,10 +34,3 @@ Guide: [Prof. Surekha Bhanot](https://www.bits-pilani.ac.in/Pilani/surekha/profi
 * Implemented a deep CNN from scratch to generate a higher quality/ detailed version of the low quality input image.
 * The model outperformed the traditional heuristic based approaches on Timofte benchmark. The research was also presented in a paper at [APOGEE](https://www.bits-apogee.org/), BITS Pilani.
 
-# Deep Product Search In the Wild
-
-Guide: [Mr. Balaji Krishnamurthy](https://www.linkedin.com/in/balaji-krishnamurthy-4241695)
-
-* Worked on a deep learning based Visual Product Search which segments different products in a
-wild image and performs search in a large catalogue.
-* Proposed a novel grid based training of Siamese networks, allowing it to observe multiple positive and negative image instances simultaneously. The [research](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Chopra_Powering_Robust_Fashion_Retrieval_With_Information_Rich_Feature_Embeddings_CVPRW_2019_paper.pdf) was awarded the [Best Paper Award](https://twitter.com/naverlabseurope/status/1140376555341795328) at CVPR 2019 Workshop on Fashion and Subjective Search.

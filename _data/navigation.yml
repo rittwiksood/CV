@@ -9,15 +9,16 @@ main:
   - title: "Work Experience"
     url: /workex/
 
+  - title: "CV"
+    url: https://hireshgupta1997.github.io/files/Hiresh_CV.pdf
+
   - title: "Projects"
     url: /projects/
-
-  - title: "Positions of Responsibility"
-    url: /responsibility/
 
   - title: "Achievements"
     url: /achievements/
 
-  - title: "CV"
-    url: https://hireshgupta1997.github.io/files/Hiresh_CV.pdf
+  - title: "Positions of Responsibility"
+    url: /responsibility/
+
 
