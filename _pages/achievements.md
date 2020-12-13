@@ -4,7 +4,7 @@ excerpt: ""
 author_profile: true
 permalink: /achievements/
 redirect_from:
-  - /achievements/
+  - /achievement/
 ---
 
 <big> Best Paper Award - CVPR 2019 Workshop </big>
