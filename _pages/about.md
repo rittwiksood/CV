@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Hiresh. I am currently working as a Software Development Engineer-II at Adobe Systems, Noida, India. I completed my bachelor’s degree in Computer Science
- from Birla Institute of Technology and Science, Pilani in 2018. During my undergrad, I developed an avid interest towards the applications of
- machine learning and neural networks and have
-  worked on multiple projects in this field under [Prof. Poonam Goyal](https://www.bits-pilani.ac.in/pilani/poonam/Profile), 
-  [Prof. Surekha Bhanot](https://www.bits-pilani.ac.in/Pilani/surekha/profile)
-   and [Dr. JL Raheja](https://www.ceeri.res.in/profiles/j-l-raheja/) . 
- I also got an oppurtunity to contribute to some real-world research problems during my internships
-  at [Indian Institute of Remote Sensing, ISRO](https://www.iirs.gov.in/), [Samsung Research Institute, Noida](https://research.samsung.com/sri-n) 
- and [Media and Data Science Research Lab, Adobe](https://research.adobe.com/). 
+Hi, I'm Hiresh. I am a final year graduate student at Carnegie Mellon University (CMU), pursuing my Masters in Computer Vision. At CMU, I'm working with Prof. Fernando De La Torre to contribute to his research on 3D Face Reconstruction. I also interned at the 3D Vision Team at Apple Maps during Summer 2022.
 
+Prior to CMU, I worked as ML Engineer at Adobe Systems (for 3 years), where I developed various deep learning solutions for Object Detection, Image Segmentation, and Visual Search for the Adobe Experience Cloud. While working there, I had the privilege of publishing papers in some prestigious Computer Vision conferences like CVPR, ECCV, and WACV, respectively, and have filed multiple US patents for the same. 
+
+I am looking for full time Computer Vision and Machine Learning roles, starting December 2022.
 
 For more info, you can contact me at:
 -
@@ -25,5 +20,5 @@ Email: hireshgupta1997@gmail.com
 
 LinkedIn: [hiresh-gupta](https://www.linkedin.com/in/hiresh-gupta-027bb8b0/)
 
-Mobile: +91-9828628907
+Mobile: +1-412-880-8710
 

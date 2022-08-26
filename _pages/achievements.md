@@ -13,7 +13,7 @@ redirect_from:
   
 <strong> Early Promotion - Adobe </strong>
 
-* Promoted to Software Development Engineer-II within 9 months of joining Adobe.
+* Promoted to Machine Learning Engineer-II within 9 months of joining Adobe.
 
 <strong> Institute Merit Scholarship - BITS Pilani </strong>
 

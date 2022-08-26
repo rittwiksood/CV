@@ -6,11 +6,22 @@ permalink: /workex/
 redirect_from:
   - /workexperience/
 ---
+# Apple, Cupertino
+<big> Machine Learning Intern (May'22 - Aug'22)</big> 
+* Worked with the 3D Vision team at Apple Maps to detect road features like lane markings, sidewalks, bike paths, etc.
+* Incorporated satellite imagery as a new data source to segment road features and update road network information.
+
 # Adobe Systems, India
 
-<big> Software Development Engineer-II (Jul'18 - Present)</big> 
+<big> Machine Learning Engineer-II (Jul'18 - Aug'21)</big> 
 
-* Designed multiple neural network architectures to extract the hierarchical document structure by performing semantic segmentation on document form images.
+* Designed multiple network architectures to digitize print forms by extracting the hierarchical document structure.
+* Proposed a high-resolution segmentation method to extract the form structure to up to four levels of granularity.
+* Developed a service to directly transform print forms to responsive HTMLs for better viewing experience across devices.
+* Utilised conditional GANs to generate synthetic training data corresponding to certain complex layout patterns.
+* Scaled deep-learning workloads to TPU pods to achieve a 15x speedup in throughput and a 10x speedup in training time.
+* Designed multi-modal solutions to leverage spatial and textual information in documents to further improve the form
+structure extractor accuracy by 5%; deployed model to production.
 * Focused on customer-oriented research to make print documents re-flowable by deploying several deep learning models in [AI Powered Automated Forms Conversion Service](https://www.adobe.com/in/marketing/experience-manager-forms/automated-forms-conversion.html).
 
 # Media and Data Science Research Lab, Adobe India
