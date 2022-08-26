@@ -12,8 +12,6 @@ Hi, I'm Hiresh. I am a final year graduate student at Carnegie Mellon University
 
 Prior to CMU, I worked as ML Engineer at Adobe Systems (for 3 years), where I developed various deep learning solutions for Object Detection, Image Segmentation, and Visual Search for the Adobe Experience Cloud. While working there, I had the privilege of publishing papers in some prestigious Computer Vision conferences like CVPR, ECCV, and WACV, respectively, and have filed multiple US patents for the same. 
 
-I am looking for full time Computer Vision and Machine Learning roles, starting December 2022.
-
 For more info, you can contact me at:
 -
 Email: hireshgupta1997@gmail.com
