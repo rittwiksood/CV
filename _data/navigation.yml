@@ -1,16 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publication/
-
-  - title: "Patents"
-    url: /patents/
-
-#  - title: "Work Experience"
-#    url: /workex/
-
-  - title: "Projects"
-    url: /projects/
 
   - title: "Resume"
     url: https://rittwiksood.github.io/files/Rittwik__Sood_Resume.pdf
@@ -23,5 +12,15 @@ main:
 
   - title: "Positions of Responsibility"
     url: /responsibility/
+    
+  - title: "Work Experience"
+    url: /workex/
+    
+  - title: "Projects"
+    url: /projects/
 
+  - title: "Publications"
+    url: /publication/
 
+  - title: "Patents"
+    url: /patents/
