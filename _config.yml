@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hiresh Gupta"
+title                    : "Rittwik Sood"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://hireshgupta1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rittwiksood.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hireshgupta1997/hireshgupta1997.github.io"
+repository               : "rittwik3/rittwiksood.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hiresh Gupta"
-  avatar           : "profile.png"
-  bio              : "CV Grad Student at CMU | ML@Apple | Adobe | BITS-Pilani (CS)"
-  location         : "Pittsburgh, PA"
+  name             : "Rittwik Sood"
+  avatar           : "Rittwik.jpg"
+  bio              : "Senior Software Engineer, RF NR5G @ Qualcomm | Wireless Communication | NIT-H (ECE)"
+  location         : "Shimla, HP"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "hireshgupta1997@gmail.com"
+  email            : "rittwik3@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hireshgupta1997"
+  github           : "rittwik3"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hiresh-gupta-027bb8b0"
+  linkedin         : "rittwik-sood"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hireshgupta1997"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
