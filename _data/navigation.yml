@@ -19,8 +19,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Publications"
+  - title: "Patents and Publications"
     url: /publication/
 
-  - title: "Patents"
-    url: /patents/
+  #- title: "Patents"
+  #  url: /patents/
