@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hiresh Gupta"
+title: "Rittwik Sood"
 excerpt: "Biography"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Hiresh. I am a final year graduate student at Carnegie Mellon University (CMU), pursuing my Masters in Computer Vision. At CMU, I'm working with Prof. Fernando De La Torre to contribute to his research on 3D Face Reconstruction. I also interned at the 3D Vision Team at Apple Maps during Summer 2022.
+Hello, I'm Rittwik. I am a Senior Sofware Engineer in Modem NR5G RF team at Hyderabad, India. I am looking to widen my horizon in the field of Wireless Communication Systems, especially Mobile Communication Systems / THz networks. I have been working with this team from past 4 years and was the juniormost team member at the conception of the team back in Oct 2018. Worked acros geographies and various OEM's to cater to their different requirements and feature requests in NR5G tech.
+I am now looking to venture into further research by my PhD. 
 
-Prior to CMU, I worked as ML Engineer at Adobe Systems (for 3 years), where I developed various deep learning solutions for Object Detection, Image Segmentation, and Visual Search for the Adobe Experience Cloud. While working there, I had the privilege of publishing papers in some prestigious Computer Vision conferences like CVPR, ECCV, and WACV, respectively, and have filed multiple US patents for the same. 
+I have obtained my undergrad degree from National Institute of Technology Hamirpur, in Electronics and Communication Engineering, where I have topped the entire branch and the batch of 2014-2018. I got the opportunity to intern at IIT Delhi and KIT, Karlsruhe Germany during my sophomore and third year respectively. I have written few conference publications, journal publications and have an Indian patent in process.
+
+My favourite passtime is travelling across places, creating plays, and reading history.
 
 For more info, you can contact me at:
 -
-Email: hireshgupta1997@gmail.com
+Email: rittwik3@gmail.com
 
-LinkedIn: [hiresh-gupta](https://www.linkedin.com/in/hiresh-gupta-027bb8b0/)
+LinkedIn: [Rittwik-Sood](https://www.linkedin.com/in/rittwik-sood/)
 
-Mobile: +1-412-880-8710
+Mobile: +91-7508340030
 
