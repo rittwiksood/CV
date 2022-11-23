@@ -17,7 +17,7 @@ My favourite passtime is travelling across places, creating plays, and reading h
 
 For more info, you can contact me at:
 -
-Email: rittwik3@gmail.com
+Email: rittwiksood@gmail.com
 
 LinkedIn: [Rittwik-Sood](https://www.linkedin.com/in/rittwik-sood/)
 
