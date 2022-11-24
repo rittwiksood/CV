@@ -27,13 +27,15 @@ redirect_from:
 
 # IBT, Karlsruhe Institute of Technology, Karlsruhe, Germany
 <big> DAAD-WISE Scholar, Institut für Biomedizinische Technik, KIT (May'17 - Jul'17) </big>
-* Evaluation of methods for phase detection on ECG, EEG signals. [KIT link of the project details](https://www.ibt.kit.edu/english/3827.php)
-* Worked under tutelage of [Prof. Dr. rer. nat. Olaf Dössel](https://www.ibt.kit.edu/english/doessel.php), <strong>Head of the Institute</strong> and [Dr.-Ing. Nicolas Pilia](https://www.ibt.kit.edu/english/Pilia_Nicolas.php), IBT KIT.
+* Evaluation of methods for phase detection on ECG, EEG signals to predict heart, brain disorders well in time.
+<br> [KIT link of the project details](https://www.ibt.kit.edu/english/3827.php)
+* Worked under tutelage of [Prof. Dr. rer. nat. Olaf Dössel](https://www.ibt.kit.edu/english/doessel.php), <b>Head of the Institute</b> and
+<br> [Dr.-Ing. Nicolas Pilia](https://www.ibt.kit.edu/english/Pilia_Nicolas.php), IBT KIT.
 * [My time at KIT](https://www.ibt.kit.edu/english/Sood_Rittwik.php)
 * <i>DAAD-WISE scholarship is provided to top 150 merititious students across the country.</i>
 
 # Indian Institute of Technology Delhi (IIT Delhi)
-<big> Indian Academy of Sciences Research Fellow (May'16 = Jul'16)</big>
+<big> Indian Academy of Sciences Research Fellow (May'16 - Jul'16)</big>
 * Worked on Wireless Embedded systems. Made a project titled 'Tourist Assistance system', to help geo-locate the tourists in absence of Mobile communication.
 * Worked with Prof. Subrat Kar, EE Deptt, IIT Delhi.
 * [GIPEDI Scholar](http://gipedi.iitd.ac.in/)
