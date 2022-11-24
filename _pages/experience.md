@@ -6,23 +6,20 @@ permalink: /workex/
 redirect_from:
   - /workexperience/
 ---
-# Apple, Cupertino
-<big> Machine Learning Intern (May'22 - Aug'22)</big> 
-* Worked with the 3D Vision team at Apple Maps to detect road features like lane markings, sidewalks, bike paths, etc.
-* Incorporated satellite imagery as a new data source to segment road features and update road network information.
+# Qualcomm, India
+<big> Senior Software Engineer, NR5G Modem RF Team (Sep'18 - Present)</big> 
+* Developing Feature requests for various OEM's across the globe.
+* Daily activities include 3GPP new features analysis and programming those from the modem side
+* Designed multiple network architectures and frameworks for various feature requests
+* Debugging customer issues and running test cases for the developed code, FTM mode, Online and PHY cases.
+* Make design documents for the new asks
+* Some of the features, I have worked single-handedly includes ENDC (LTE+NR NSA), NRDC (FR1+FR2, FR1+FR1) and MPE (Maximum Polarisation Exposure).
+* Got applauded by the CEO of Qualcomm, and the work was presented at (Mobile World Congress) MWC 2021, Barcelona.
+* <a href = https://www.qualcomm.com/company/events/mwc-barcelona> Catch the CEO's address here </a> to MWC Barcelona 2021.
+* <a href = https://www.qualcomm.com/news/onq/2021/06/28/snapdragon-x65-breaks-record-download-speeds-exceeding-10-gbps-through-5g-mmwave?cmpid=oofyus21340&linkId=122575397> Achieving 10GBps for the the first time </a> by NRDC.
 
-# Adobe Systems, India
 
-<big> Machine Learning Engineer-II (Jul'18 - Aug'21)</big> 
 
-* Designed multiple network architectures to digitize print forms by extracting the hierarchical document structure.
-* Proposed a high-resolution segmentation method to extract the form structure to up to four levels of granularity.
-* Developed a service to directly transform print forms to responsive HTMLs for better viewing experience across devices.
-* Utilised conditional GANs to generate synthetic training data corresponding to certain complex layout patterns.
-* Scaled deep-learning workloads to TPU pods to achieve a 15x speedup in throughput and a 10x speedup in training time.
-* Designed multi-modal solutions to leverage spatial and textual information in documents to further improve the form
-structure extractor accuracy by 5%; deployed model to production.
-* Focused on customer-oriented research to make print documents re-flowable by deploying several deep learning models in [AI Powered Automated Forms Conversion Service](https://www.adobe.com/in/marketing/experience-manager-forms/automated-forms-conversion.html).
 
 # Media and Data Science Research Lab, Adobe India
 
