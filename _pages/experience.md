@@ -15,8 +15,9 @@ redirect_from:
 * Make design documents for the new asks
 * Some of the features, I have worked single-handedly includes ENDC (LTE+NR NSA), NRDC (FR1+FR2, FR1+FR1) and MPE (Maximum Polarisation Exposure).
 * Got applauded by the CEO of Qualcomm, and the work was presented at (Mobile World Congress) MWC 2021, Barcelona. 
-* Catch the [CEO's address here] (https://www.qualcomm.com/company/events/mwc-barcelona) to MWC Barcelona 2021.
+* Catch the [CEO's address here](https://www.qualcomm.com/company/events/mwc-barcelona) to MWC Barcelona 2021.
 * [Achieving 10GBps](https://www.qualcomm.com/news/onq/2021/06/28/snapdragon-x65-breaks-record-download-speeds-exceeding-10-gbps-through-5g-mmwave?cmpid=oofyus21340&linkId=122575397) for the the first time by NRDC.
+
 
 
 # Carrier, India 
@@ -26,11 +27,14 @@ redirect_from:
 
 # IBT, Karlsruhe Institute of Technology, Karlsruhe, Germany
 <big> DAAD-WISE Scholar, Institut für Biomedizinische Technik, KIT (May'17 - Jul'17) </big>
+* Evaluation of methods for phase detection on ECG, EEG signals. [KIT link of the project details](https://www.ibt.kit.edu/english/3827.php)
+* Worked under tutelage of [Prof. Dr. rer. nat. Olaf Dössel](https://www.ibt.kit.edu/english/doessel.php), <strong>Head of the Institute</strong> and [Dr.-Ing. Nicolas Pilia](https://www.ibt.kit.edu/english/Pilia_Nicolas.php), IBT KIT.
+* [My time at KIT](https://www.ibt.kit.edu/english/Sood_Rittwik.php)
+* <i>DAAD-WISE scholarship is provided to top 150 merititious students across the country.</i>
 
-
-# Media and Data Science Research Lab, Adobe India
-
-<big> Computer Vision Research Intern (Jan’18 - Jul’18)</big> 
-
-* Worked on a deep learning based Visual Product Search which segments different products in a wild image and performs search in a large catalogue.
-* Proposed a novel grid based training of siamese networks, allowing it to observe multiple positive and negative image instances simultaneously. The [research](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Chopra_Powering_Robust_Fashion_Retrieval_With_Information_Rich_Feature_Embeddings_CVPRW_2019_paper.pdf) was awarded the [Best Paper Award](https://twitter.com/naverlabseurope/status/1140376555341795328) at CVPR 2019 Workshop on Fashion and Subjective Search.
+# Indian Institute of Technology Delhi (IIT Delhi)
+<big> Indian Academy of Sciences Research Fellow (May'16 = Jul'16)</big>
+* Worked on Wireless Embedded systems. Made a project titled 'Tourist Assistance system', to help geo-locate the tourists in absence of Mobile communication.
+* Worked with Prof. Subrat Kar, EE Deptt, IIT Delhi.
+* [GIPEDI Scholar](http://gipedi.iitd.ac.in/)
+* Indian Academy of Sciences Summer Research Fellowship is provided to top 200 merititious students across India to carry out summer internship in premier institutes of India. 
