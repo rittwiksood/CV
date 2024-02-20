@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Rittwik Sood"
   avatar           : "Rittwik.png"
-  bio              : "Senior Software Engineer, RF NR5G @ Qualcomm | Wireless Communication | NIT-H (ECE)"
-  location         : "Shimla, HP"
-  employer         : "Qualcomm Inc."
+  bio              : "PhD, Purdue University | Senior Software Engineer, RF NR5G @ Qualcomm | NITH (ECE)"
+  location         : "West Lafayette, IN"
+  employer         : "Purdue University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9gZL098AAAAJ&hl=en&oi=ao"
-  email            : "rittwik3@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "rittwiksood@gmail.com"
+  researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
