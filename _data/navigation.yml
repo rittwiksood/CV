@@ -7,12 +7,6 @@ main:
   #- title: "CV"
   #  url: https://rittwiksood.github.io/files/Rittwik_Sood_CV.pdf
 
-  - title: "Achievements"
-    url: /achievements/
-
-  - title: "Positions of Responsibility"
-    url: /responsibility/
-    
   - title: "Work Experience"
     url: /workex/
     
@@ -21,6 +15,12 @@ main:
 
   - title: "Patents & Publications"
     url: /publication/
+
+  - title: "Achievements"
+      url: /achievements/
+
+  - title: "Positions of Responsibility"
+    url: /responsibility/
 
   #- title: "Patents"
   #  url: /patents/
