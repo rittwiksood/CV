@@ -22,5 +22,5 @@ Email: rittwiksood@gmail.com
 
 LinkedIn: [Rittwik-Sood](https://www.linkedin.com/in/rittwik-sood/)
 
-Mobile: +91-7508340030
+Mobile: +1 (765)767-3040
 
