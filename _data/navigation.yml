@@ -16,8 +16,8 @@ main:
   - title: "Patents & Publications"
     url: /publication/
 
-  - title: "Achievements"
-      url: /achievements/
+  #- title: "Achievements"
+   #   url: /achievements/
 
   - title: "Positions of Responsibility"
     url: /responsibility/
